@@ -1,7 +1,19 @@
 [
     {
+        "merged": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_submit.xml.flat",
+        "source": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_submit.xml"
+    },
+    {
+        "merged": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_list.xml.flat",
+        "source": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_list.xml"
+    },
+    {
         "merged": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_sign_up.xml.flat",
+        "source": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_sign_up.xml"
     },
     {
         "merged": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -12,8 +24,20 @@
         "source": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_login.xml.flat",
+        "source": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_verify.xml.flat",
+        "source": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_verify.xml"
+    },
+    {
         "merged": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_log_in.xml.flat",
+        "source": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_log_in.xml"
     },
     {
         "merged": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",

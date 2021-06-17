@@ -981,10 +981,17 @@ drawable quantum_ic_volume_off_white_36
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
+id AdminLoginButton
+id AdminlogInbutton
 id CTRL
+id CustomerEmailLogIn
+id CustomerPassword
+id CustomerPasswordLogin
 id FUNCTION
+id LoginLayout
 id META
 id MainRL
+id PersonName
 id SHIFT
 id SYM
 id TitleTV
@@ -1011,6 +1018,7 @@ id activity_chooser_view_content
 id add
 id adjust_height
 id adjust_width
+id adminID
 id alertTitle
 id always
 id android_pay
@@ -1030,9 +1038,8 @@ id blocking
 id book_now
 id bottom
 id button
-id button4
-id button5
-id button6
+id button2
+id button3
 id buttonPanel
 id button_0
 id button_1
@@ -1072,6 +1079,9 @@ id controllers
 id crash_reporting_present
 id custom
 id customPanel
+id customerLogInButton
+id customerSignINButton
+id customerlist
 id dark
 id decor_content_parent
 id default_activity_button
@@ -1084,6 +1094,7 @@ id disableHome
 id disconnect
 id donate_with
 id donate_with_google
+id editTextNumberDecimal
 id edit_query
 id email
 id end
@@ -1130,6 +1141,7 @@ id listMode
 id list_item
 id loading_indicator
 id logo_only
+id logoutbutton
 id main_container
 id match_global_nicknames
 id match_parent
@@ -1169,6 +1181,9 @@ id progressBar
 id progress_circular
 id progress_horizontal
 id radio
+id radioButton
+id radioButton2
+id radioButton3
 id rfc822
 id right
 id right_icon
@@ -1208,6 +1223,7 @@ id src_atop
 id src_in
 id src_over
 id standard
+id starcountTV
 id start
 id start_text
 id status_bar_latest_event_content
@@ -1215,6 +1231,7 @@ id status_text
 id stop
 id strict_sandbox
 id submenuarrow
+id submitButton
 id submit_area
 id subtitle
 id subtitle_view
@@ -1228,6 +1245,9 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textTitle
+id textView
+id textView2
+id textView3
 id text_empty_message
 id text_list_view
 id thing_proto
@@ -1244,6 +1264,8 @@ id uniform
 id up
 id url
 id useLogo
+id verifyingweight
+id weightET
 id wide
 id withText
 id wrap
@@ -1282,7 +1304,13 @@ layout abc_screen_toolbar
 layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
+layout activity_admin_login
+layout activity_customer_list
+layout activity_customer_log_in
+layout activity_customer_sign_up
+layout activity_customer_submit
 layout activity_main
+layout activity_verify
 layout cast_expanded_controller_activity
 layout cast_help_text
 layout cast_intro_overlay
