@@ -48,8 +48,8 @@ public class CustomerSignUp extends AppCompatActivity {
                     public void done(ParseException e) {
                         if (e == null) {
                             Toast.makeText(CustomerSignUp.this, "Sign Up Successful", Toast.LENGTH_LONG).show();
-                            /*Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                            startActivity(intent);*/
+                            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                            startActivity(intent);
                         }
                         //Log.i("Success", "DONE!");
                         else

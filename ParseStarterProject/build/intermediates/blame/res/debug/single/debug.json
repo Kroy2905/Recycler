@@ -4,12 +4,12 @@
         "source": "S:\\Recycler final\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_log_in.xml"
     },
     {
-        "merged": "S:\\Recycler final\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_sign_up.xml.flat",
-        "source": "S:\\Recycler final\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_sign_up.xml"
-    },
-    {
         "merged": "S:\\Recycler final\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_recycler.jpg.flat",
         "source": "S:\\Recycler final\\ParseStarterProject\\src\\main\\res\\drawable\\recycler.jpg"
+    },
+    {
+        "merged": "S:\\Recycler final\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_sign_up.xml.flat",
+        "source": "S:\\Recycler final\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_sign_up.xml"
     },
     {
         "merged": "S:\\Recycler final\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_submit.xml.flat",
