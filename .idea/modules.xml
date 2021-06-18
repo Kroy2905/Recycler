@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Parse-Server-Starter-Project.iml" filepath="$PROJECT_DIR$/Parse-Server-Starter-Project.iml" group="Parse-Server-Starter-Project" />
-      <module fileurl="file://$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" group="Parse-Server-Starter-Project/ParseStarterProject" />
+      <module fileurl="file://$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" group="Recycler final/ParseStarterProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recycler_final.iml" filepath="$PROJECT_DIR$/.idea/modules/Recycler_final.iml" group="Recycler_final" />
     </modules>
   </component>
 </project>

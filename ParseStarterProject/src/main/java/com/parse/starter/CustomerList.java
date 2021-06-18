@@ -31,9 +31,9 @@ public class CustomerList extends AppCompatActivity {
         setTitle("Customer List");
 
         listView = findViewById(R.id.customerlist);
-        final ArrayList<String> usernames = new ArrayList<String>();
+         final ArrayList<String> usernames = new ArrayList<String>();
 
-        arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, usernames);
+           arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, usernames);
 
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {

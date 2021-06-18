@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "S:\\RecyclerDEMO\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
+            "outputFile": "S:\\Recycler final\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\royko\\.gradle\\caches\\transforms-2\\files-2.1\\0df8ab4203213aee703da84a57c43ad0\\play-services-cast-framework-9.4.0\\res\\values-mr\\values.xml",

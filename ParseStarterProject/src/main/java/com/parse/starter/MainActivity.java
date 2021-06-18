@@ -180,6 +180,7 @@ public class MainActivity extends AppCompatActivity {
     Clogin = (Button)findViewById(R.id.customerLogInButton);
     CsignIn = findViewById(R.id.customerSignINButton);
     AdminSignin = findViewById(R.id.AdminLoginButton);
+    setTitle("Recycler App");
 
     
     ParseAnalytics.trackAppOpenedInBackground(getIntent());

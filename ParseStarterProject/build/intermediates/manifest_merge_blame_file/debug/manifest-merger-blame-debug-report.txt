@@ -6,22 +6,22 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+8-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="26" />
-9-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+9-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:5:5-67
-11-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:5:22-64
+11-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:5:5-67
+11-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:6:5-79
-12-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:6:22-76
+12-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:6:5-79
+12-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:7:5-80
-13-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:7:22-77
+13-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:7:5-80
+13-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:7:22-77
 14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-14-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:8:5-79
-14-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:8:22-76
+14-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:8:5-79
+14-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:8:22-76
 15
 16    <!-- Optional permission for Analytics to run. -->
 17    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
@@ -50,53 +50,53 @@
 28-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\royko\.gradle\caches\transforms-2\files-2.1\63ca4aa31be683e7381014269a34e418\firebase-iid-9.4.0\AndroidManifest.xml:28:22-76
 29
 30    <application
-30-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:5-31:19
+30-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:10:5-31:19
 31        android:name="com.parse.starter.StarterApplication"
-31-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:11:9-43
+31-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:11:9-43
 32        android:allowBackup="true"
-32-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:12:9-35
+32-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:12:9-35
 33        android:debuggable="true"
 34        android:extractNativeLibs="false"
 35        android:icon="@mipmap/ic_launcher"
-35-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:13:9-43
+35-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:13:9-43
 36        android:label="@string/app_name"
-36-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:14:9-41
+36-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:14:9-41
 37        android:testOnly="true"
 38        android:theme="@style/AppTheme" >
-38-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:9-40
+38-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:15:9-40
 39        <activity android:name="com.parse.starter.VerifyActivity" />
-39-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:9-61
-39-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:19-49
+39-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:16:9-61
+39-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:16:19-49
 40        <activity android:name="com.parse.starter.CustomerList" />
-40-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:9-50
-40-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:19-47
+40-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:17:9-50
+40-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:17:19-47
 41        <activity android:name="com.parse.starter.CustomerSubmit" />
-41-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:9-52
-41-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:19-49
+41-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:18:9-52
+41-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:18:19-49
 42        <activity android:name="com.parse.starter.AdminLogin" />
-42-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:19:9-48
-42-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:19:19-45
+42-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:19:9-48
+42-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:19:19-45
 43        <activity android:name="com.parse.starter.CustomerSignUp" />
-43-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:20:9-52
-43-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:20:19-49
+43-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:20:9-52
+43-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:20:19-49
 44        <activity android:name="com.parse.starter.CustomerLogIn" />
-44-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:21:9-51
-44-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:21:19-48
+44-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:21:9-51
+44-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:21:19-48
 45        <activity
-45-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:9-30:20
+45-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:22:9-30:20
 46            android:name="com.parse.starter.MainActivity"
-46-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:23:13-41
+46-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:23:13-41
 47            android:label="@string/app_name" >
-47-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:24:13-45
+47-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:24:13-45
 48            <intent-filter>
-48-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:25:13-29:29
+48-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:25:13-29:29
 49                <action android:name="android.intent.action.MAIN" />
-49-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:26:17-69
-49-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:26:25-66
+49-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:26:17-69
+49-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:26:25-66
 50
 51                <category android:name="android.intent.category.LAUNCHER" />
-51-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:28:17-77
-51-->S:\RecyclerDEMO\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:28:27-74
+51-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:28:17-77
+51-->S:\Recycler final\ParseStarterProject\src\main\AndroidManifest.xml:28:27-74
 52            </intent-filter>
 53        </activity>
 54

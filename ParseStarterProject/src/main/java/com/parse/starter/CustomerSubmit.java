@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.parse.ParseException;
@@ -12,13 +13,18 @@ import com.parse.ParseObject;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
+import java.util.Random;
+
 public class CustomerSubmit extends AppCompatActivity {
     EditText weight;
+    TextView stars;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_customer_submit);
          weight = findViewById(R.id.weightET);
+         stars = findViewById(R.id.starcountTV);
+        setTitle("Customer Submit");
     }
    public void submit(View view) {
        if (weight.getText().toString().matches("")) {
@@ -40,6 +46,7 @@ public class CustomerSubmit extends AppCompatActivity {
                    }
                }
            });
+
            cuslogout(view);
        }
    }
@@ -52,5 +59,13 @@ public class CustomerSubmit extends AppCompatActivity {
         Intent intent = new Intent(getApplicationContext(),MainActivity.class);
         startActivity(intent);
     }
+
+    public void setStars(){
+        Random random = null;
+        int randomNum = random.nextInt((1)) ;
+        stars.setText(Integer.toString(randomNum));
+
+    }
+
 
 }

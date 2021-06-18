@@ -15,6 +15,8 @@ public class AdminLogin extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_admin_login);
         adminid = findViewById(R.id.adminID);
+
+        setTitle("Admin Login");
     }
 
 

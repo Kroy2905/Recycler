@@ -21,6 +21,7 @@ public class CustomerLogIn extends AppCompatActivity {
         setContentView(R.layout.activity_customer_log_in);
         EmailLogin = findViewById(R.id.CustomerEmailLogIn);
         passLogin = findViewById(R.id.CustomerPasswordLogin);
+        setTitle("Customer Login");
     }
 
 

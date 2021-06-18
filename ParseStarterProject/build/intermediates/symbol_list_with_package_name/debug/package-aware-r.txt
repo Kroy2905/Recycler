@@ -797,6 +797,8 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable bg
+drawable bgx
 drawable cast_album_art_placeholder
 drawable cast_album_art_placeholder_large
 drawable cast_expanded_controller_actionbar_bg_gradient_light
@@ -978,6 +980,7 @@ drawable quantum_ic_volume_mute_grey600_36
 drawable quantum_ic_volume_mute_white_36
 drawable quantum_ic_volume_off_grey600_36
 drawable quantum_ic_volume_off_white_36
+drawable recycler
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT

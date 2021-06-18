@@ -37,12 +37,10 @@ public class VerifyActivity extends AppCompatActivity {
           weightReceived = findViewById(R.id.verifyingweight);
         Intent intent = getIntent();
         String username =   intent.getStringExtra("");
-        setTitle(username+"'s Profile");
+        setTitle("Verification page");
 
-        ParseQuery<ParseObject> query = new ParseQuery<ParseObject>("Weight");
 
-        query.whereEqualTo("username", username);
-        List <ParseObject> results = null;
+      /*  List <ParseObject> results = null;
         try{
             results = query.find();
             if(!results.isEmpty()){
@@ -53,23 +51,29 @@ public class VerifyActivity extends AppCompatActivity {
         }catch (com.parse.ParseException e){
             Toast.makeText(VerifyActivity.this,e.getMessage(),Toast.LENGTH_LONG).show();
         }
+*/
 
 
 
+      //   query.orderByDescending("CreatedAt");
 
-        /* query.orderByDescending("CreatedAt");
+
+        ParseQuery<ParseObject> query = new ParseQuery<ParseObject>("Weight");
+
+        query.whereEqualTo("username", username);
         query.findInBackground(new FindCallback<ParseObject>() {
            @Override
             public void done(List<ParseObject> objects, ParseException e) {
               if(e==null && objects.size()>0){
                     for(ParseObject object : objects){
-                       weightChecker.add(object.get("weight").toString());
+                    Log.i("username",object.getString("username"));
+                    Log.i("weight",Integer.toString(object.getInt("weight")));
                     }
                 }
             }
 
         });
-*/
+
 
     }
 

@@ -12,7 +12,7 @@
     android:id="@+id/MainRL"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#D6F1CE"
+    android:background="@drawable/bg"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
@@ -33,7 +33,7 @@
         android:layout_marginTop="163dp"
         android:layout_marginEnd="34dp"
         android:layout_marginRight="34dp"
-        android:background="#FA4343"
+        android:background="#4527A0"
         android:onClick="adminButtonClick"
         android:text="ADMIN-LOGIN"
         android:textColor="#FFFFFF"
@@ -51,7 +51,7 @@
         android:layout_marginLeft="22dp"
         android:layout_marginTop="45dp"
         android:layout_marginEnd="29dp"
-        android:background="#F1BE6C"
+        android:background="#896CF1"
         android:onClick="CusSignInClick"
         android:text="NEW  SIGN  UP"
         android:textColor="#FFFFFF"
@@ -59,14 +59,14 @@
 
     <TextView
         android:id="@+id/TitleTV"
-        android:layout_width="371dp"
-        android:layout_height="60dp"
+        android:layout_width="360dp"
+        android:layout_height="83dp"
         android:background="#ABF3F4CF"
         android:paddingTop="5dp"
-        android:text="          RECYCLER"
+        android:text="      RECYCLER"
         android:textAllCaps="true"
         android:textColor="#27EA47"
-        android:textSize="36sp"
+        android:textSize="50sp"
         android:textStyle="bold|italic" />
 
     <Button
